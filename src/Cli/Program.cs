@@ -11,6 +11,7 @@ Console.WriteLine($"Версія .NET (CLR) : {Environment.Version}");
 Console.WriteLine($"Runtime : {RuntimeInformation.FrameworkDescription}");
 Console.WriteLine($"Каталог застосунку : {AppContext.BaseDirectory}");
 Console.WriteLine($"Поточний каталог : {Environment.CurrentDirectory}");
+Console.WriteLine("something");
 
 Console.WriteLine(new string('-', 52));
 Console.WriteLine("Предметна область: Замовлення (клієннти, товари, замовлення, рядок замовлення)");
