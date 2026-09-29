@@ -1,0 +1,17 @@
+[
+  { "type": "P", "id": "p-101", "name": "Ноутбук Lenovo ThinkPad", "price": 28500.50 },
+  { "type": "P", "id": "p-102", "name": "Мишка бездротова Logitech", "price": 750.00 },
+  { "type": "C", "id": "c-201", "fullName": "Олексій Коваленко", "email": "oleksiy.k@example.com" },
+  { "type": "P", "id": "p-103", "name": "Клавіатура механічна Keychron", "price": 3200.00 },
+  { "type": "C", "id": "c-202", "fullName": "Марія Мельник", "email": "m.melnyk@test.ua" },
+  { "type": "P", "id": "p-104", "name": "Монітор Dell 27\"", "price": 11499.99 },
+  { "type": "C", "id": "c-203", "fullName": "Тарас Шевченко", "email": "taras@domain.org" },
+  { "type": "P", "id": "p-105", "name": "Навушники Sony WH-1000XM5", "price": 14200.00 },
+  { "type": "C", "id": "c-204", "fullName": "Олена Бойко", "email": "elena.boyko@demo.com" },
+  { "type": "P", "id": "p-106", "name": "USB-C Хаб Anker", "price": 1250.00 },
+  { "type": "C", "id": "c-205", "fullName": "Дмитро Бондаренко", "email": "dmitry.b@web.net" },
+
+  { "type": "P", "id": "p-107", "name": "", "price": 1500.00 },
+  { "type": "P", "id": "p-108", "name": "Графічний планшет", "price": -500.00 },
+  { "type": "C", "id": "c-206", "fullName": "Ірина Коваль" }
+]
